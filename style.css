@@ -1,1 +1,10 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+</style>;
 
+:root {
+  --bg-color: FABC3F;
+  --primary-color:E85C0D;
+  --secondary-color:C7253E;
+
+}
